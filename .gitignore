@@ -1,8 +1,14 @@
-# custom files
-custom/
-!custom/plugins/example
-!custom/example.zsh
+# Commenting these out since this is my fork
+# custom/
+# !custom/plugins/example
+# !custom/example.zsh
 
 # temp files directories
 cache/
 log/
+
+# All the stupid backups
+*~
+*#
+.#*
+#*
